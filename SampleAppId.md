@@ -1,4 +1,5 @@
 # Sample App Id service and application creation in less than 5 minutes
+[Main Menu](/README.md)
 ## [Creating a service instance](https://console.bluemix.net/docs/services/appid/index.html#gettingstarted)
 
 Create and bind an instance of App ID to your app to get started.
@@ -28,3 +29,5 @@ Following languages are supported
 2. Java (pre-requisite is cf cli and maven)  
 
 Apart from these Android and Swift are also supported.
+
+[Main Menu](/README.md)
